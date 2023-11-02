@@ -1,1 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+*{
+	 font-family: 'Poppins', sans-serif;
+}
+.portfolio{
+	display:flex;
+	gap:50px;
+}
+.half-part{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:25px;
+}
+.text{
+	font-weight:bold;
+}
+.flexy{
+	display:flex;
+	justify-content: space-between;
+	align-items:center;
+}
+.line1{
+	height:6px;
+	width:400px;
+	background-color: rgb(12,120,255);
+}
+.line2{
+	height:6px;
+	width:350px;
+	background-color: rgb(12,120,255);
+}
+.line3{
+	height:6px;
+	width:300px;
+	background-color: rgb(12,120,255);
+}
 
